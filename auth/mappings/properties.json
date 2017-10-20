@@ -1,0 +1,14 @@
+{
+	"is" : "P31",
+	"gender": "P21",
+	"first_name": "P735",
+	"last_name": "P734",
+	"profession": "P106",
+	"musikverket_id": "P4357",
+	"stated_in": "P248",
+	"publication_date": "P577",
+	"reference_url": "P854",
+	"retrieved": "P813",
+	"dob": "P569",
+	"dod": "P570"
+}
